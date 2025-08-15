@@ -1,4 +1,4 @@
-# Temporal Classification of Hydropower Projects
+# Temporal and Spatial Classification of Hydropower Projects
 
 ## Purpose
 Process hydropower project data from the **Department of Electricity Development (DoED) of Nepal**.
